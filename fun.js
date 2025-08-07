@@ -1,4 +1,4 @@
-/** Creating a simple object
+//Creating a simple object
 const student = {
   name: "Nancy",
   age: 21,
@@ -17,7 +17,7 @@ console.log(student.age);        // Output: 21
 
 // Calling the method
 student.greet();                 // Output: Hello, my name is Nancy
-**/
+
 
 function fun(){
   console.log(arguments);
